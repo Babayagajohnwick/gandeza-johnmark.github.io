@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(226, 70, 179);
+}
+.wick{
+    background-color: rgb(206, 13, 212);
+    color:white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
